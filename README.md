@@ -1,2 +1,4 @@
-# sewa-mobil-kupang-labuan-bajo
-Landing page untuk sewa mobil di Kupang &amp; Labuan Bajo
+git clone https://github.com/denodhonk/sewa-mobil-kupang-labuan-bajo.git
+cd sewa-mobil-kupang-labuan-bajo
+git checkout main
+npm install
